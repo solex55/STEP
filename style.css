@@ -503,7 +503,6 @@ color: var(--color-primary-text);
   background: white;
   border-radius: 5px;
   width: 90vw;
-  height: 30vh;
   max-width: var(--fixed-width);
   text-align: center;
   display: grid;
@@ -641,9 +640,9 @@ color: var(--color-primary-text);
     margin-bottom: 2rem;
   }
   .hr-lines:after{
-    width: 120px;
+    width: 100px;
   }
   .hr-lines:before{
-    width: 120px;
+    width: 100px;
   }
 }
