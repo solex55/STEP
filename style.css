@@ -619,6 +619,10 @@ color: var(--color-primary-text);
   .hero-service-desc{
     top: 30%;
   }
+  .big-hero {
+    font-size: 2rem;
+    font-weight: 900;
+}
   .hero-desc{
     /*   color: var(--color-primary-text);
      */  font-size: 1.4rem;
